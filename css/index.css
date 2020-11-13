@@ -1,0 +1,10 @@
+.casemorpion {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: repeat(3, 100px);
+}
+
+
+td{
+  border: solid rgb(0, 0, 0);
+}
